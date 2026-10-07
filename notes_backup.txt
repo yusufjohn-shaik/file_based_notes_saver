@@ -1,0 +1,64 @@
+# File-Based Notes Saver Storage File
+[NOTE_START]
+ID: 1024
+TITLE: C++ File Handling
+CATEGORY: Programming
+CREATED: 26-09-2026
+CONTENT_START
+Today I learned about ifstream and ofstream.
+Streams provide a clean, object-oriented way to perform file I/O operations in C++.
+CONTENT_END
+[NOTE_END]
+[NOTE_START]
+ID: 1025
+TITLE: C++ OOP Concepts
+CATEGORY: Programming
+CREATED: 26-09-2026
+CONTENT_START
+Core OOP pillars:
+1. Encapsulation - Bundling data and methods together.
+2. Abstraction - Hiding internal implementation details.
+3. Inheritance - Reusing and extending base class behavior.
+4. Polymorphism - Overriding virtual functions for dynamic dispatch.
+CONTENT_END
+[NOTE_END]
+[NOTE_START]
+ID: 1026
+TITLE: C++ DSA Practice
+CATEGORY: College
+CREATED: 26-09-2026
+CONTENT_START
+Practiced Graph traversals (BFS, DFS) and solved Dijkstra's shortest path problem.
+Review Dynamic Programming tomorrow morning.
+CONTENT_END
+[NOTE_END]
+[NOTE_START]
+ID: 1027
+TITLE: Smart Portfolio Project
+CATEGORY: Projects
+CREATED: 26-09-2026
+CONTENT_START
+Build a responsive developer portfolio website using modern web tech and animations.
+Add terminal-style easter egg!
+CONTENT_END
+[NOTE_END]
+[NOTE_START]
+ID: 1028
+TITLE: App Startup Ideas
+CATEGORY: Ideas
+CREATED: 26-09-2026
+CONTENT_START
+AI-powered workspace organizer that syncs notes, tasks, and code snippets locally.
+Privacy-first approach with local file backups.
+CONTENT_END
+[NOTE_END]
+[NOTE_START]
+ID: 1029
+TITLE: ML Research Papers to Read
+CATEGORY: Research
+CREATED: 26-09-2026
+CONTENT_START
+1. Attention Is All You Need (Vaswani et al.)
+2. Deep Residual Learning for Image Recognition (He et al.)
+CONTENT_END
+[NOTE_END]
